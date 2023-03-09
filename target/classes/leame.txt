@@ -1,0 +1,5 @@
+1R// Tiene 6 clases.
+2R// En la clase restaurante.
+3R// Hay dos objetos.
+4R// Tiene 4 atributos. Entrada-Platofuerte-Comida-Postre
+5R// Entrada-PlatoFuerte-Comida-Postre
